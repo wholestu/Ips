@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Undefined",Fuji TV (540p)
+https://fujitv4.mov3.co/hls/fujitv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",Gaki no Tsukai (English Subs) (720p)
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",NHK World Japan (720p)
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/U0ZFkZw.png" group-title="Undefined",Nippon TV (540p) [Not 24/7]
+https://ntv4.mov3.co/hls/ntv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="Shop",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Shop",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBS
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tbs.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBS West
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tbspacific.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tnt.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT (West) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tnt.pacific.us.m3u8?checkedby:iptvcat.com
